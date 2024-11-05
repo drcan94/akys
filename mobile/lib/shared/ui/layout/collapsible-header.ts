@@ -1,0 +1,1 @@
+export { CollapsibleHeader } from '../../../../components/ui/collapsible-header';

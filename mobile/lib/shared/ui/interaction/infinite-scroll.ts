@@ -1,0 +1,1 @@
+export { InfiniteScroll } from '../../../../components/ui/infinite-scroll';
